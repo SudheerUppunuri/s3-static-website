@@ -124,3 +124,10 @@ Through this project, I learned:
 ------------------------------------------------------------------------
 
 ⭐ If you like this project, consider giving the repository a star!
+## 🖥️ Website Preview
+
+Here is a screenshot of the deployed CarBook website:
+
+![CarBook Website Preview](images/website-preview.png)
+
+The website features a car rental landing page with a large hero section, navigation bar, car imagery, and a rental booking section.
